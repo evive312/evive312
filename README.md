@@ -5,7 +5,7 @@
 
   <h2>👨‍💻 Programing Projects:</h2>
   - <b>Data Science</b>
-    -[Using Maching Learning and Visualizations in Python](https://github.com/evive312)
+    -  [Using Maching Learning and Visualizations in Python](https://github.com/evive312)
 
 
 
