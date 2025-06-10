@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1>Hi, I'm Edgar!<br/></h1>
+  <h3><a href="https://github.com/evive312">Programmer</a>,
+  <a href="https://www.linkedin.com/in/edgarv312/">Tech Enthusiast</a>
+  </h3>
+
+  <h2>👨‍💻 Programing Projects:</h2>
+  - <b>Data Science</b>
+    -[Using Maching Learning and Visualizations in Python](https://github.com/evive312)
+
+
 
 <!--
 **evive312/evive312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
