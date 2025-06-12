@@ -7,6 +7,8 @@
   
   - <b>Data Science</b>
     -  [Using Machine Learning and Visualizations in Python](https://github.com/evive312)
+  - <b> Mobile App Devlopment</b>
+    -  [Movie Database in Flutter](https://github.com/evive312)
 
 
 
