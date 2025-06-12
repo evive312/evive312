@@ -16,7 +16,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="edgarv312 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="edgarv312 | LinkedIn" width="22px" src="https://raw.githubusercontent.com/benc-uk/icon-collection/e33ee714d05a24a81cf6ccd967ef34b22cb77e65/azure-patterns/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/edgarv312
 
