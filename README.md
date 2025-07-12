@@ -6,12 +6,12 @@
   <h2>👨‍💻 Programing Projects:</h2>
   
   - <b>Data Science</b>
-    -  [Using Machine Learning and Visualizations in Python](https://github.com/evive312)
+    -  [Using Machine Learning and Visualizations in Python](https://github.com/evive312/Machine-Learning-and-Visualizations)
   - <b> Mobile App Devlopment</b>
-    -  [Movie Database in Flutter](https://github.com/evive312)
-    -  [Android Music Player App and Server in Java](https://github.com/evive312)
+    -  [Movie Database in Flutter](https://github.com/evive312/Movie-Database)
+    -  [Android Music Player App and Server in Java](https://github.com/evive312/Music-App)
   - <b>Systems Programming</b>
-    -  [Simple POSIX HTTP Server in C](https://github.com/evive312)
+    -  [Simple POSIX HTTP Server in C](https://github.com/evive312/HTTP-Server)
 
 
 <h2> 🤳 Connect with me:</h2>
